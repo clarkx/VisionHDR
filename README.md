@@ -13,7 +13,9 @@ Interactive Environment Lighting
 ****
 
 ## What is <strong><b>VisionHDR</b></strong>.
-<strong><b>_VisionHDR_</b></strong> is an interactive environment lighting setup. Which mean that the addon will let you change the position of your light source directly in your viewport. For this, you will have to designate the light source of your image. If your image doesn't have any exposure, a sun lamp will take care of the lighting part. The nodes of the world and the sun lamp will be created automatically by the addon.
+<strong><b>_VisionHDR_</b></strong> is an interactive environment lighting setup. Which mean that the addon will let you change the position of your light source directly in your viewport. For this, you will have to designate the light source of your image so the addon will align the targeting cursor with it. If your image doesn't have any exposure, a sun lamp will take care of the lighting part. The nodes of the world and the sun lamp will be created automatically by the addon.
+
+![align_sun_vith_image](https://user-images.githubusercontent.com/10100090/29751399-2a90506a-8b4d-11e7-8157-a2812447fe82.jpg)
 
 ## How to use it ?
 Simply click on the <strong><b>NEW</b></strong> button to create a new wolrd and a new sun lamp, already configured and ready to use.
